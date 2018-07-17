@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+body{
+  margin:0;
+  overflow:hidden;
+  width:100%;
+  cursor: move;
+}
+#canv{
+}
+div{
+  background-image: url(../img/amor.png);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: .2;
+}
+h4{
+  width:100%; 
+  position:absolute;
+  text-align:center;
+  left:0;
+  top:40%;
+  color:hsla(0,0%,0%,.1);
+  font-family:'Great Vibes', cursive;
+  font-size:4em;
+}
+.uno{
+  top: 10%;
+  left: -32%;
+}
+.tres{
+  top: 17%;
+  left: 36%;
+}
+.cuatro{
+  top: 55%;
+  left: -28%;
+}
+.cinco{
+  top: 58%;
+  left: 34%;
+}
